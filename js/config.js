@@ -1,1 +1,1 @@
-window.API_URL = "https://api-koi-sushi.vercel.app";
+window.API_URL = "https://api-tcc-taupe.vercel.app/";
