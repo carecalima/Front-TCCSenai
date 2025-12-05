@@ -1,9 +1,4 @@
     let cupomAtivo = null;
-
-    const token = localStorage.getItem("token");
-    if (!token) {
-      return window.location.href = "login.html";
-    }
     
 document.addEventListener("DOMContentLoaded", async function () {
   const cartButton = document.querySelector(".cart-button");
