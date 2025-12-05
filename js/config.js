@@ -1,1 +1,1 @@
-window.API_URL = "https://api-tcc-taupe.vercel.app/";
+window.API_URL = "https://api-tcc-taupe.vercel.app";
