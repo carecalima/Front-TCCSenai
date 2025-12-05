@@ -4,10 +4,6 @@ let userId = Number(localStorage.getItem("userId"));
 
 rodizioId = Number(localStorage.getItem("rodizioId"));
 
-  if (!userId) {
-    return window.location.href = "login.html";
-  }
-
 async function abrirRodizio() {
     if (rodizioId) {
         console.log("Sessão já aberta com ID:", rodizioId);
